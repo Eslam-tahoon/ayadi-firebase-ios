@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>872345642600-2okcvsf5em8gdo58m78700u5lu8fncd8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.872345642600-2okcvsf5em8gdo58m78700u5lu8fncd8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9A1fqeITijMEUUIdIiAabPITSlUA8NHs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>872345642600</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dl.ayadistore</string>
+	<key>PROJECT_ID</key>
+	<string>ayadi-store-mobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ayadi-store-mobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:872345642600:ios:41694d6192d07a4b</string>
+	<key>DATABASE_URL</key>
+	<string>https://ayadi-store-mobile.firebaseio.com</string>
 </dict>
 </plist>
